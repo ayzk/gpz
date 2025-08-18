@@ -3,7 +3,7 @@
 This repository contains all the necessary files and documentation for GPZ.
 
 ## Paper
-[View it on Arvix](https://arxiv.org/abs/2508.10305)
+[View it on ArXiv](https://arxiv.org/abs/2508.10305)
 
 
 ## Source code
