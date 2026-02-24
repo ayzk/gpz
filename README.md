@@ -7,4 +7,4 @@ This repository contains all the necessary files and documentation for GPZ.
 
 
 ## Source code
-Source code will be released soon.
+[https://github.com/szcompressor/GPZ](https://github.com/szcompressor/GPZ)
